@@ -8,4 +8,4 @@ Layouts out made for AM+  Check out updated release-------->>>>>>
 
 
 ![image alt](https://github.com/Tankman3737/Spinner/blob/4540c749df75e416acf38c36365ecb8840f434db/spin3.png)
-![image alt](https://github.com/Tankman3737/Spinner/blob/30b1bcd7cc036a302d2aced0fd0de178858fcfbd/spin4.png)
+
